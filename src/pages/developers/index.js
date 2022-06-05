@@ -515,6 +515,13 @@ const DevelopersPage = ({ data }) => {
               <Translation id="page-developers-oracle-desc" />
             </p>
 
+            <Link to="/developers/docs/job-scheduling/">
+              <Translation id="page-developers-job-scheduling-link" />
+            </Link>
+            <p>
+              <Translation id="page-developers-oracle-desc" />
+            </p>
+
             <Link to="/developers/docs/scaling/">
               <Translation id="page-developers-scaling-link" />
             </Link>
